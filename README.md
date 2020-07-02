@@ -1,0 +1,2 @@
+# Corona-virus-ket-Barcode-scanner-with-live-data-base-
+Hi!!!This project for view corona virus proliferation. By this project we can scan barcode of id card , its mean we can know information about this person(this app actually for policeman), and i opened google sheet live data base , its mean we can save information any where we be . I did GUI by tkinter , and in GUI we can enter policeman number and id card owner temperature and we save automatily save policeman geolocation , all this information is saves in live data . Data which we save, we can do data vizualiation .
